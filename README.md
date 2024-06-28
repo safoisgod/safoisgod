@@ -1,5 +1,5 @@
 # Safo's_Analytics_Portfolio
-Analytics Portfolio
+
 ## Introduction
 Welcome to Safo's Analytics Portfolio repository! This collection showcases various data analyst projects completed over years for academic, self-learning, and hobby purposes. Whether you’re an experienced professional or a sprouting analyst, you’ll find a diverse range of interesting projects here from time to time. 
 
