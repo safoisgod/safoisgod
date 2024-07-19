@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <span style="font-size: larger;">A professional potfolio portfolio</span>
+  <span style="font-size: larger;">Welcome to my page</span>
 </p>
 
 
