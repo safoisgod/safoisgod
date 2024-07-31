@@ -20,20 +20,36 @@
 </div>
 -->
 <p align="center">
-  <a href="https:/github.com/safoisgod">🐱 /safoisgod</a>
+  🐱<a href="https:/github.com/safoisgod">safoisgod</a>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/iamnanasafo/">📍LinkedIn</a>
-</p>
-
 
 ---
+## ABOUT ME
+Hello! I am Nana Kwesi Safo, a passionate data analyst with a strong background in engineering and a knack for turning data into actionable insights. My educational background in the field of engineering has endowed me with robust analytical skills and a problem-solving mindset, whereas multiple certifications in Data Analytics have equipped me with advanced knowledge in data manipulation, visualization, and statistical analysis.
 
-## CONTACTS
-📞   :+233543550766</br>
-📩   : iamnanasafo@gmail.com</br>
+I live for the discovery of trends and patterns in complex data sets, leveraging technical expertise and a continuous learning mindset in driving delivery with impactful solutions. I'm committed to keeping myself updated on new tools and techniques in this space, and I am really excited about applying my skills toward data-driven decision making and meaningful projects.
+
+Please feel free to connect with me if you would like to discuss how I can help turn your data into valuable insights!
+
+## [PROJECTS](https://github.com/safoisgod/Analytics_Portfolio)
+- **Portfolio Projects**
+  - Fictional Country SQL Data Analysis
+  - Excel Data Collection/ Analysis Templates
+- **Study Projects**
+    - Fictional Country SQL Data Analysis
+    - HarvardX: CS50's Introduction to Programming with Python
+    - freeCodeCamp's Data Analysis with Python
+    - Python Tutorials Collection
 
 ## CERTIFICATES
+**[Executive Diploma in Business Management](https://www.udemy.com/certificate/UC-4b164846-5da4-47d9-a2c0-3c85bd69132a/)** (July, 2024) (Udemy)</br>
+**[Master Course : Finance Fundamentals and Finance Management](https://ude.my/UC-41783ce3-2605-4a80-b4a1-9089457e60e6)** (July, 2024) (Udemy)</br>
 **[Google Analytics Certificate](https://skillshop.exceedlms.com/student/award/JHF16TuXBG61jrNpFhw65gVj)** (April, 2024) (Skillshop-Google)</br>
 **[Accenture North America - Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_oPjf3cH2GtKm4LGpF_1712509416399_completion_certificate.pdf)** (April, 2024) (Forage)</br>
 **[Data Analysis with Python](https://freecodecamp.org/certification/iamnanasafo/data-analysis-with-python-v7)** (March, 2024) (freeCodeCamp)</br>
+
+
+## CONTACTS
+Telephone 📞   :+233543550766</br>
+Mail 📩        : iamnanasafo@gmail.com</br>
+LinkedIn       : https://www.linkedin.com/in/iamnanasafo
