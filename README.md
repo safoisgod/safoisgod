@@ -35,6 +35,7 @@ Please feel free to connect with me if you would like to discuss how I can help 
 - **Portfolio Projects**
   - Fictional Country SQL Data Analysis
   - Excel Data Collection/ Analysis Templates
+  - Medical Database Project
 - **Study Projects**
     - Fictional Country SQL Data Analysis
     - HarvardX: CS50's Introduction to Programming with Python
