@@ -35,7 +35,7 @@ Please feel free to connect with me if you would like to discuss how I can help 
 - **Portfolio Projects**
   - Medical Database Project - (SQL)
   - Excel Data Collection/ Analysis Templates - (Ms Excel)
-  - 
+  - World Malaria Analysis - (Python)
 - **Study Projects**
     - Fictional Country Analysis - (Excel, SQL, PowerBi)
     - HarvardX: CS50's Introduction to Programming with Python - (Python)
