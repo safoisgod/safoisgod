@@ -33,14 +33,14 @@ Please feel free to connect with me if you would like to discuss how I can help 
 
 ## [PROJECTS](https://github.com/safoisgod/Analytics_Portfolio)
 - **Portfolio Projects**
-  - Fictional Country SQL Data Analysis
-  - Excel Data Collection/ Analysis Templates
-  - Medical Database Project
+  - Medical Database Project - (SQL)
+  - Excel Data Collection/ Analysis Templates - (Ms Excel)
+  - 
 - **Study Projects**
-    - Fictional Country SQL Data Analysis
-    - HarvardX: CS50's Introduction to Programming with Python
-    - freeCodeCamp's Data Analysis with Python
-    - Python Tutorials Collection
+    - Fictional Country Analysis - (Excel, SQL, PowerBi)
+    - HarvardX: CS50's Introduction to Programming with Python - (Python)
+    - freeCodeCamp's Data Analysis with Python - (Python)
+    - Python Tutorials Collection - (Python)
 
 ## CERTIFICATES
 **[Executive Diploma in Business Management](https://www.udemy.com/certificate/UC-4b164846-5da4-47d9-a2c0-3c85bd69132a/)** (July, 2024) (Udemy)</br>
